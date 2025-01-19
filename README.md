@@ -1,6 +1,5 @@
 # **Pharma Prescribe – Medico-GPT**
 
-![Medico-GPT Banner](https://via.placeholder.com/1000x250?text=Pharma+Prescribe+-+Medico+GPT)
 
 **Medico-GPT** is an AI-powered health assistant designed to provide personalized disease predictions and evidence-based prevention advice. The project leverages cutting-edge natural language processing (NLP) and machine learning techniques to analyze user-reported symptoms in everyday language, ensuring accessibility and reliability for users seeking preliminary health insights.
 
