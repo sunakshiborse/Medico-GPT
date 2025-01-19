@@ -47,13 +47,12 @@
    git clone https://github.com/yourusername/medico-gpt.git
    cd medico-gpt
 2. **Install dependencies**:
-   '''bash
    pip install -r requirements.txt
-3. **Start the Flask server**:
-   '''bash
+   
+4. **Start the Flask server**:
    python app.py
-4. **Access the application**:
-   '''bash
+   
+6. **Access the application**:
    http://127.0.0.1:5000/
 
 ---
